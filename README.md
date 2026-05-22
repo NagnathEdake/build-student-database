@@ -41,6 +41,6 @@ build-student-database/
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by Nagnath Edake
