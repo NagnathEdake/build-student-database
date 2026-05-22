@@ -38,9 +38,6 @@ build-student-database/
 └── README.md
 ```
 
-# 🏆 Certification Project
-
-This project was completed as part of the :contentReference[oaicite:1]{index=1} Relational Database Certification.
 
 ---
 
